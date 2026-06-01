@@ -10,7 +10,7 @@ Binance 的代币化股票（bStocks）将采用 **`{TICKER}B`** 命名规则。
 - 公开 API `get-tokenised-asset`：返回 `ADIB`（Tokenized ADI），`tagBits: "28672"`
 - `uq: "ADI"` 字段确认锚定底层真实美股 Analog Devices
 - 6/1 上线日 tagBits 被清零，资产从列表消失
-- Web3 钱包配置：三个证券板块（Alpha securities / STOCK 专区 / PRE_IPO）全部默认 `hideOndoAssets`
+- Web3 钱包配置：配置 key `STOCK` (t=40) = 线上 UI `Tradfi/证券`，10 个子分类 + 2 个关联板块全部默认 `hideOndoAssets`。逻辑：隐藏 Ondo（`on` 后缀），为 bStocks（`B` 后缀）腾出展示空间
 
 ## 命名对比
 
