@@ -1,0 +1,43 @@
+Files scanned: 7147
+Bytes scanned: 795820368
+
+Keyword counts:
+BSC: 19346
+bsc: 19346
+tokenise: 1875
+tokenised: 1407
+chainId: 1035
+contractAddress: 548
+tokenize: 522
+tokenized: 310
+bstock: 279
+bStock: 279
+Bstock: 279
+BStock: 279
+bstocks: 176
+TSLA: 149
+Nest Trading: 144
+tokenAddress: 90
+chain_id: 79
+toContractAddress: 75
+NVDA: 68
+fromContractAddress: 67
+Alpaca Securities: 44
+BNB Chain: 34
+AAPL: 23
+Ondo Finance: 19
+Convert to bStocks: 7
+Convert to Stocks: 7
+DeFi on BNB Chain: 7
+equity/tokenized: 6
+tokenized/mint: 2
+tokenized/redeem: 2
+
+EVM address count by file:
+E:\stocks\bstocks-repro\work\base_apk\assets\common\5.11.0\worker-service.qjs: 1
+E:\stocks\bstocks-repro\work\base_apk\classes12.dex: 1
+E:\stocks\bstocks-repro\work\base_apk\classes18.dex: 11
+E:\stocks\bstocks-repro\work\base_apk\classes7.dex: 1
+E:\stocks\bstocks-repro\work\bundle\base.apk: 11
+E:\stocks\bstocks-repro\work\bundle\split_config.arm64_v8a.apk: 2
+E:\stocks\bstocks-repro\work\bundle\split_config.armeabi_v7a.apk: 2

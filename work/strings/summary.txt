@@ -1,0 +1,62 @@
+Files scanned:
+- classes.dex: 9423168
+- classes10.dex: 8834908
+- classes11.dex: 9139796
+- classes12.dex: 9245304
+- classes13.dex: 9931852
+- classes14.dex: 10462520
+- classes15.dex: 9310508
+- classes16.dex: 9293300
+- classes17.dex: 10062796
+- classes18.dex: 10632436
+- classes19.dex: 9062220
+- classes2.dex: 10827724
+- classes20.dex: 9447952
+- classes21.dex: 8484288
+- classes22.dex: 7519036
+- classes3.dex: 11796692
+- classes4.dex: 10325844
+- classes5.dex: 10004692
+- classes6.dex: 9448332
+- classes7.dex: 9976268
+- classes8.dex: 9477888
+- classes9.dex: 8721344
+- resources.arsc: 7428232
+- AndroidManifest.xml: 289372
+
+Keyword counts:
+bsc: 6935
+BSC: 6935
+Nightshade: 2801
+0x: 2800
+tradfi: 1765
+plutus: 1115
+stock: 908
+equity: 707
+chainId: 507
+Ondo: 413
+tokenise: 392
+stocks: 320
+contractAddress: 268
+tokenised: 184
+tokenize: 182
+tokenized: 100
+bstock: 64
+bStock: 64
+Bstock: 64
+BStock: 64
+tokenAddress: 45
+chain_id: 31
+bstocks: 14
+Alpaca: 12
+Nest Trading: 8
+bnb chain: 4
+BNB Chain: 4
+equity/tokenized: 3
+tokenized/mint: 1
+tokenized/redeem: 1
+
+EVM address count by file:
+classes12.dex: 1
+classes18.dex: 11
+classes7.dex: 1

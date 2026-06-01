@@ -1,0 +1,171 @@
+success=True code=000000 rows=7948
+
+Keys:
+- s: 7948
+- n: 7948
+- ac: 7948
+- logo: 7948
+- t: 7948
+- ts: 7948
+- v24: 7948
+- mc: 7948
+- c: 7948
+- pc: 7948
+- tc: 7948
+- mp: 7948
+- os: 7948
+- lt: 7948
+- dlt: 7948
+- sec: 7948
+- desc: 7948
+- fe: 7948
+- fr: 7948
+- et: 7948
+
+Interesting rows:
+{
+  "s": "AAPL",
+  "n": "Apple Inc. Common Stock",
+  "ac": "EQ_AAPL",
+  "logo": "https://bin.bnbstatic.com/static/stock/AAPL.png",
+  "t": "STOCK",
+  "ts": "0.01",
+  "v24": "70054538",
+  "mc": "4583336313360",
+  "c": "311.48",
+  "pc": "312.021",
+  "tc": "311.441",
+  "mp": "C",
+  "os": true,
+  "lt": null,
+  "dlt": null,
+  "sec": "3571",
+  "desc": "/",
+  "fe": false,
+  "fr": true,
+  "et": false
+}
+{
+  "s": "MSFT",
+  "n": "Microsoft Corporation Common Stock",
+  "ac": "EQ_MSFT",
+  "logo": "https://bin.bnbstatic.com/static/stock/MSFT.png",
+  "t": "STOCK",
+  "ts": "0.01",
+  "v24": "80146931",
+  "mc": "3344578441129",
+  "c": "448.17",
+  "pc": "426.793",
+  "tc": "449.594",
+  "mp": "C",
+  "os": true,
+  "lt": null,
+  "dlt": null,
+  "sec": "7372",
+  "desc": "/",
+  "fe": false,
+  "fr": true,
+  "et": false
+}
+{
+  "s": "NVDA",
+  "n": "NVIDIA Corporation Common Stock",
+  "ac": "EQ_NVDA",
+  "logo": "https://bin.bnbstatic.com/static/stock/NVDA.png",
+  "t": "STOCK",
+  "ts": "0.01",
+  "v24": "289700142",
+  "mc": "5114021940000",
+  "c": "212.46",
+  "pc": "214.021",
+  "tc": "212.319",
+  "mp": "C",
+  "os": true,
+  "lt": null,
+  "dlt": null,
+  "sec": "3674",
+  "desc": "/",
+  "fe": false,
+  "fr": true,
+  "et": false
+}
+{
+  "s": "QQQ",
+  "n": "Invesco QQQ Trust, Series 1",
+  "ac": "EQ_QQQ",
+  "logo": "https://bin.bnbstatic.com/static/stock/QQQ.png",
+  "t": "ETF",
+  "ts": "0.01",
+  "v24": "39603153",
+  "mc": null,
+  "c": "737.86",
+  "pc": "735.331",
+  "tc": "738.382",
+  "mp": "C",
+  "os": true,
+  "lt": null,
+  "dlt": null,
+  "sec": null,
+  "desc": "/",
+  "fe": false,
+  "fr": true,
+  "et": false
+}
+{
+  "s": "SPY",
+  "n": "State Street SPDR S&P 500 ETF Trust",
+  "ac": "EQ_SPY",
+  "logo": "https://bin.bnbstatic.com/static/stock/SPY-dfc7.png",
+  "t": "ETF",
+  "ts": "0.01",
+  "v24": "55100424",
+  "mc": null,
+  "c": "755.95",
+  "pc": "754.59",
+  "tc": "756.718",
+  "mp": "C",
+  "os": true,
+  "lt": null,
+  "dlt": null,
+  "sec": null,
+  "desc": "/",
+  "fe": false,
+  "fr": true,
+  "et": false
+}
+{
+  "s": "TSLA",
+  "n": "Tesla, Inc. Common Stock",
+  "ac": "EQ_TSLA",
+  "logo": "https://bin.bnbstatic.com/static/stock/TSLA-de59.png",
+  "t": "STOCK",
+  "ts": "0.01",
+  "v24": "45247195",
+  "mc": "1636706905743",
+  "c": "435.08",
+  "pc": "441.934",
+  "tc": "435.229",
+  "mp": "C",
+  "os": true,
+  "lt": null,
+  "dlt": null,
+  "sec": "3711",
+  "desc": "/",
+  "fe": false,
+  "fr": true,
+  "et": false
+}
+
+Rows with contract/address/chain/token terms: 10
+["AIB", "EQ_AIB", "chain", "{\"s\": \"AIB\", \"n\": \"BlockchAIn Digital Infrastructure, Inc\", \"ac\": \"EQ_AIB\", \"logo\": \"https://bin.bnbstatic.com/static/stock/AIB.png\", \"t\": \"STOCK\", \"ts\": \"0.01\", \"v24\": \"732132\", \"mc\": null, \"c\": \"3.4\", \"pc\": \"3.575\", \"tc\": \"3.421\", \"mp\": \"C\", \"os\": false, \"lt\": null, \"dlt\": null, \"sec\": \"6221\", \"desc\": \"/\", \"fe\": false, \"fr\": false, \"et\": false}"]
+["ARBK", "EQ_ARBK", "chain", "{\"s\": \"ARBK\", \"n\": \"Argo Blockchain plc American Depositary Shares\", \"ac\": \"EQ_ARBK\", \"logo\": \"https://bin.bnbstatic.com/static/stock/ARBK.png\", \"t\": \"STOCK\", \"ts\": \"0.01\", \"v24\": \"15506\", \"mc\": null, \"c\": \"3.66\", \"pc\": \"3.68\", \"tc\": \"3.855\", \"mp\": \"C\", \"os\": false, \"lt\": null, \"dlt\": null, \"sec\": null, \"desc\": \"/\", \"fe\": false, \"fr\": false, \"et\": false}"]
+["ARKF", "EQ_ARKF", "chain", "{\"s\": \"ARKF\", \"n\": \"ARK Blockchain & Fintech Innovation ETF\", \"ac\": \"EQ_ARKF\", \"logo\": \"https://bin.bnbstatic.com/static/stock/AACB-3789.png\", \"t\": \"ETF\", \"ts\": \"0.01\", \"v24\": \"224401\", \"mc\": null, \"c\": \"43.04\", \"pc\": \"42.19\", \"tc\": \"43.125\", \"mp\": \"C\", \"os\": true, \"lt\": null, \"dlt\": null, \"sec\": null, \"desc\": \"/\", \"fe\": false, \"fr\": true, \"et\": false}"]
+["BGIN", "EQ_BGIN", "chain", "{\"s\": \"BGIN\", \"n\": \"Bgin Blockchain Limited Class A Ordinary Shares\", \"ac\": \"EQ_BGIN\", \"logo\": \"https://bin.bnbstatic.com/static/stock/BGIN.png\", \"t\": \"STOCK\", \"ts\": \"0.01\", \"v24\": \"11776\", \"mc\": null, \"c\": \"2.93\", \"pc\": \"2.905\", \"tc\": \"3.031\", \"mp\": \"C\", \"os\": true, \"lt\": null, \"dlt\": null, \"sec\": null, \"desc\": \"/\", \"fe\": false, \"fr\": false, \"et\": false}"]
+["BKCH", "EQ_BKCH", "chain", "{\"s\": \"BKCH\", \"n\": \"Global X Funds Global X Blockchain ETF\", \"ac\": \"EQ_BKCH\", \"logo\": \"https://bin.bnbstatic.com/static/stock/BKCH.png\", \"t\": \"ETF\", \"ts\": \"0.01\", \"v24\": \"270754\", \"mc\": null, \"c\": \"92.01\", \"pc\": \"92.14\", \"tc\": \"91.985\", \"mp\": \"C\", \"os\": true, \"lt\": null, \"dlt\": null, \"sec\": null, \"desc\": \"/\", \"fe\": false, \"fr\": true, \"et\": false}"]
+["BLOK", "EQ_BLOK", "chain", "{\"s\": \"BLOK\", \"n\": \"Amplify Blockchain Technology ETF\", \"ac\": \"EQ_BLOK\", \"logo\": \"https://bin.bnbstatic.com/static/stock/BLOK.png\", \"t\": \"ETF\", \"ts\": \"0.01\", \"v24\": \"268243\", \"mc\": null, \"c\": \"67.95\", \"pc\": \"67.064\", \"tc\": \"67.98\", \"mp\": \"C\", \"os\": true, \"lt\": null, \"dlt\": null, \"sec\": null, \"desc\": \"/\", \"fe\": false, \"fr\": true, \"et\": false}"]
+["CD", "EQ_CD", "chain", "{\"s\": \"CD\", \"n\": \"Chaince Digital Holdings Inc. Ordinary Shares\", \"ac\": \"EQ_CD\", \"logo\": \"https://bin.bnbstatic.com/static/stock/CD.png\", \"t\": \"STOCK\", \"ts\": \"0.01\", \"v24\": \"136461\", \"mc\": null, \"c\": \"8.26\", \"pc\": \"8.665\", \"tc\": \"8.265\", \"mp\": \"C\", \"os\": true, \"lt\": null, \"dlt\": null, \"sec\": \"6199\", \"desc\": \"/\", \"fe\": false, \"fr\": true, \"et\": false}"]
+["IBLC", "EQ_IBLC", "chain", "{\"s\": \"IBLC\", \"n\": \"iShares Blockchain and Tech ETF\", \"ac\": \"EQ_IBLC\", \"logo\": \"https://bin.bnbstatic.com/static/stock/IBLC.png\", \"t\": \"ETF\", \"ts\": \"0.01\", \"v24\": \"12317\", \"mc\": null, \"c\": \"55.28\", \"pc\": \"55.404\", \"tc\": \"55.509\", \"mp\": \"C\", \"os\": true, \"lt\": null, \"dlt\": null, \"sec\": null, \"desc\": \"/\", \"fe\": false, \"fr\": true, \"et\": false}"]
+["ICG", "EQ_ICG", "chain", "{\"s\": \"ICG\", \"n\": \"Intchains Group Limited American Depositary Shares\", \"ac\": \"EQ_ICG\", \"logo\": \"https://bin.bnbstatic.com/static/stock/ICG.png\", \"t\": \"STOCK\", \"ts\": \"0.01\", \"v24\": \"235437\", \"mc\": null, \"c\": \"0.7911\", \"pc\": \"0.994\", \"tc\": \"0.825\", \"mp\": \"C\", \"os\": false, \"lt\": null, \"dlt\": null, \"sec\": null, \"desc\": \"/\", \"fe\": false, \"fr\": false, \"et\": false}"]
+["NODE", "EQ_NODE", "chain", "{\"s\": \"NODE\", \"n\": \"VanEck Onchain Economy ETF\", \"ac\": \"EQ_NODE\", \"logo\": \"https://bin.bnbstatic.com/static/stock/NODE.png\", \"t\": \"ETF\", \"ts\": \"0.01\", \"v24\": \"10205\", \"mc\": null, \"c\": \"47.28\", \"pc\": \"47.161\", \"tc\": \"47.085\", \"mp\": \"C\", \"os\": true, \"lt\": null, \"dlt\": null, \"sec\": null, \"desc\": \"/\", \"fe\": false, \"fr\": false, \"et\": false}"]
+
+Address hits: 0

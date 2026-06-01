@@ -1,0 +1,17 @@
+# 大型二进制（APK 样本和解包产物太大，不提交）
+*.apkm
+*.apk
+work/bundle/
+work/base_apk/
+
+# 临时脚本
+*.py
+*.cjs
+*.mjs
+
+# Firecrawl 缓存
+.firecrawl/
+
+# 系统文件
+.DS_Store
+Thumbs.db
